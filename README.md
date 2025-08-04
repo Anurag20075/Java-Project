@@ -1,4 +1,3 @@
-```markdown
 # 🧮 Java OOP-Based Calculator
 
 This is a **simple console-based calculator** built using **Java** and follows **Object-Oriented Programming (OOP)** principles. It allows users to perform **Addition, Subtraction, Multiplication,** and **Division** on two numbers via command-line input.
@@ -28,10 +27,8 @@ This is a **simple console-based calculator** built using **Java** and follows *
 ## 📂 Project Structure
 
 ```
-
 Calculator.java  <-- Main class that contains logic and main method
 README.md        <-- You're reading it!
-
 ```
 
 ---
@@ -60,7 +57,6 @@ Using Object-Oriented Programming (OOP) helps in:
 ## 📌 Sample Output
 
 ```
-
 Simple Calculator
 
 1. Addition
@@ -71,7 +67,6 @@ Simple Calculator
    Enter first number: 10
    Enter second number: 20
    10.0 + 20.0 = 30.0
-
 ```
 
 ---
@@ -81,12 +76,10 @@ Simple Calculator
 If a user attempts to divide by zero, the program doesn't crash. It catches the exception and prints a user-friendly message:
 
 ```
-
 Enter your choice (1-4): 4
 Enter first number: 10
 Enter second number: 0
 Cannot divide by zero
-
 ```
 
 ---
@@ -107,15 +100,11 @@ To run this calculator:
 1. Make sure you have Java installed (`java -version`)
 2. Compile the code:
 ```
-
 javac Calculator.java
-
 ```
 3. Run the program:
 ```
-
 java Calculator
-
 ```
 
 ---
@@ -123,8 +112,3 @@ java Calculator
 ## 🙌 Author
 
 **Anurag** – Java enthusiast and software developer, currently exploring both web and backend development.
-
----
-
-
-Would you like me to generate this as a downloadable file or extend it with contribution/license sections for GitHub?
